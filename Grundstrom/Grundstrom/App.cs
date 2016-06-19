@@ -73,8 +73,15 @@ namespace Grundstrom
             switch (btn.Text)
             {
                 case "Beställnings guiden":
-                   // DependencyService.Get<IPdfCreator>().ShowPdfFile();
-                    
+                    // DependencyService.Get<IPdfCreator>().ShowPdfFile();
+                    //if (Device.OS == TargetPlatform.iOS)
+                    //{
+                    //    navigator.PushAsync(new PdfWebView(), true);
+                    //}
+                    //else
+                    //{
+                    //    navigator.PushAsync(new PdfPage(), true);
+                    //}
                     navigator.PushAsync(new PdfPage(), true);
                     break;
                 case "Kontakter":

@@ -105,7 +105,7 @@
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="packages.config" />
-    <EmbeddedResource Include="Resources\BESTALLNINGSGUIDE.pdf" />
+    <BundleResource Include="Content\BESTALLNINGSGUIDE.pdf" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default%402x.png" />
@@ -156,7 +156,6 @@
     <BundleResource Include="Resources\Icon-Small-50%402x.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\" />
     <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>

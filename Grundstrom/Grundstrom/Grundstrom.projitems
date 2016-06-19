@@ -22,6 +22,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Pages\PersonalPages\StefanAkessonPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Pages\PersonalPages\StefanSchillPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Pages\RootPagecs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PdfWebView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\IDialer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\MenuItem.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\MenuListData.cs" />
@@ -32,7 +33,9 @@
     <None Include="$(MSBuildThisFileDirectory)Images\Grundstromlogo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)Docs\" />
     <Folder Include="$(MSBuildThisFileDirectory)Events\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Docs\BESTALLNINGSGUIDE.pdf" />
   </ItemGroup>
 </Project>

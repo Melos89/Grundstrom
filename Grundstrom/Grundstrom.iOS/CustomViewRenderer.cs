@@ -30,7 +30,7 @@ namespace Grundstrom.iOS
             if (e.NewElement != null)
             {
                 var customWebView = Element as CustomPDF;
-                string fileName = Path.Combine(NSBundle.MainBundle.BundlePath, string.Format("Resources/{0}", WebUtility.UrlEncode(customWebView.Uri)));
+                string fileName = Path.Combine(NSBundle.MainBundle.BundlePath, string.Format("Content/{0}", WebUtility.UrlEncode(customWebView.Uri)));
                 Control.LoadRequest(new NSUrlRequest(new NSUrl(fileName, false)));
                 Control.ScalesPageToFit = true;
             }
