@@ -105,8 +105,6 @@ Global
 		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|ARM.Build.0 = Release|Any CPU
 		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|ARM.Deploy.0 = Release|Any CPU
 		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|iPhone.Build.0 = Release|Any CPU
-		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|iPhone.Deploy.0 = Release|Any CPU
 		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{5A7EDD79-7B61-4EF0-AC1F-349A5AC9EB28}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
@@ -205,8 +203,6 @@ Global
 		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|ARM.Build.0 = Release|ARM
 		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|ARM.Deploy.0 = Release|ARM
 		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|iPhone.Build.0 = Release|Any CPU
-		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|iPhone.Deploy.0 = Release|Any CPU
 		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{82E0CC39-6BC2-4A38-9A41-BC411B742E08}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
@@ -273,8 +269,6 @@ Global
 		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|ARM.Build.0 = Release|ARM
 		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|ARM.Deploy.0 = Release|ARM
 		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|iPhone.Build.0 = Release|Any CPU
-		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|iPhone.Deploy.0 = Release|Any CPU
 		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{A4EC4EBB-0154-4C9A-A800-93267991A54D}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU

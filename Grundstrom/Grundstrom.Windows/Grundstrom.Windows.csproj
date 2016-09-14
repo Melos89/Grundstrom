@@ -121,7 +121,7 @@
     <None Include="Windows_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Assets\GrundstromiLommaAB.png">
+    <EmbeddedResource Include="Assets\lommaab.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
     <Content Include="Assets\Grundstromlogo.png" />

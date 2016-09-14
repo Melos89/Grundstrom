@@ -21,6 +21,7 @@ namespace Grundstrom.Pages
                 Spacing = 10,
                 Children =
                 {
+                    new Image() {Source = FileImageSource.FromFile("Images/GrundstromiLommaAB.png") },
                     TitleLabel,
                     OrderButton,
                     ContactButton,
@@ -31,6 +32,7 @@ namespace Grundstrom.Pages
         }
         private void CreateControls()
         {
+
             TitleLabel = new Label
             {
                 Text = "Grundström",

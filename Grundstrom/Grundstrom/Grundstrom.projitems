@@ -22,14 +22,13 @@
     <Compile Include="$(MSBuildThisFileDirectory)Pages\PersonalPages\StefanAkessonPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Pages\PersonalPages\StefanSchillPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Pages\RootPagecs.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)PdfWebView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\IDialer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\MenuItem.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\MenuListData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Resources\MenuListView.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)Images\GrundstromiLommaAB.png" />
+    <None Include="$(MSBuildThisFileDirectory)Images\lommaab.png" />
     <None Include="$(MSBuildThisFileDirectory)Images\Grundstromlogo.png" />
   </ItemGroup>
   <ItemGroup>
